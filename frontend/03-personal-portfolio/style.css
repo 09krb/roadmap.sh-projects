@@ -132,3 +132,18 @@
         align-items: center;
         gap: 1.5rem;
     }
+
+    /* contact */
+    form {
+        display: flex;
+        flex-direction: column;
+        gap : 1.5rem;
+    }
+
+    label {
+        font-weight: bold;
+        font-size: 1rem;
+        color: var(--accent-color);
+    }
+
+    
